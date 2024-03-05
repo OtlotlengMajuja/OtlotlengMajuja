@@ -4,7 +4,7 @@ Hi 👋 My name is Otlotleng Majuja
 Junior Developer
 ----------------
 
-I recently started coding after graduating as a paralegal. I started with HTML and so far really enjoy front-end development, as it is the space in industry that I see myself fitting best in.
+I recently started coding after graduating as a paralegal. I started with HTML and so far and I really enjoy front-end development, as it is the space in industry that I see myself fitting best in.
 
 * 🌍  I'm based in Rustenburg, South Africa
 * ✉️  You can contact me at [thabangmajuja@gmail.com](mailto:thabangmajuja@gmail.com)
