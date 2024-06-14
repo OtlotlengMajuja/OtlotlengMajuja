@@ -8,7 +8,6 @@ I recently started coding after graduating as a paralegal. I started with HTML a
 
 * 🌍  I'm based in Rustenburg, South Africa
 * ✉️  You can contact me at [thabangmajuja@gmail.com](mailto:thabangmajuja@gmail.com)
-* 🚀  I'm currently working on [A website for a clothing brand](http://github.com/OtlotlengMajuja/Clothing-website)
 * 🧠  I'm learning JS and React
 * 🤝  I'm open to collaborating on UI/UX designs
 * ⚡  I am into baking, crocheting and am a plant mum of two
